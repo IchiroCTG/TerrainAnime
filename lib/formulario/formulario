@@ -1,0 +1,56 @@
+{
+  "form_title": "Formulario Anime Terrain",
+  "questions": [
+    {
+      "id": "q1",
+      "type": "text",
+      "label": "¿Cuál es tu anime favorito?"
+    },
+    {
+      "id": "q2",
+      "type": "multiple_choice",
+      "label": "¿Qué sueles buscar en una app de anime?",
+      "options": [
+        "Dónde ver un anime",
+        "Puntajes y reseñas de usuarios",
+        "Información del anime",
+        "Recomendaciones personalizadas",
+        "Seguir y comentar capítulos"
+      ]
+    },
+    {
+      "id": "q3",
+      "type": "rating",
+      "label": "¿Qué tan útil te parece la aplicación Anime Terrain?",
+      "scale": 5
+    },
+    {
+      "id": "q4",
+      "type": "dropdown",
+      "label": "¿Cuál es tu plataforma de anime favorita?",
+      "options": [
+        "Crunchyroll",
+        "Netflix",
+        "Amazon Prime Video",
+        "HiDive",
+        "AnimeFLV",
+        "Otra"
+      ]
+    },
+    {
+      "id": "q5",
+      "type": "boolean",
+      "label": "¿Te gustaría recibir notificaciones?"
+    },
+    {
+      "id": "q6",
+      "type": "text",
+      "label": "¿Qué características te gustaría ver?"
+    },
+    {
+      "id": "q7",
+      "type": "number",
+      "label": "¿Cuántos animes ves al mes?"
+    }
+  ]
+}

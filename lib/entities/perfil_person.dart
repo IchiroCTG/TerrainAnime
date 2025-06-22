@@ -9,4 +9,7 @@ class PerfilPerson {
   double heigth;
   PerfilPerson(this.nombre,this.animesFavoritos,this.iconPath,this.width,this.heigth);
   
+
+
+  
 }

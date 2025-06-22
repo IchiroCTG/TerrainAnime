@@ -1,4 +1,4 @@
-package com.example.terrain_anime
+package cl.ichiroctg.terrain_anime
 
 import io.flutter.embedding.android.FlutterActivity
 

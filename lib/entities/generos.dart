@@ -5,5 +5,6 @@ enum Generos{
   romance,
   isekai,
   shounen,
-  sobrenatural
+  sobrenatural,
+  comedia,
 }

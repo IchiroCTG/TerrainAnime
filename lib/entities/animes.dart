@@ -6,12 +6,12 @@ import 'plataformas.dart';
 
 class Anime{
     String name;
-    int clasificacion;
+    double clasificacion;
+    int episodios;
+    String descripcion;
     String portada;
-    double width;
-    double heigth;
     List<Plataformas> plataformas;
     List<Generos> generos;
-    Anime(this.name,this.clasificacion,this.portada,this.width,this.heigth,this.plataformas,this.generos);
+    Anime(this.name,this.clasificacion,this.episodios,this.descripcion,this.portada,this.plataformas,this.generos);
     
 }
