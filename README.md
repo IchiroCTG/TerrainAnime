@@ -48,6 +48,7 @@ Actualmente, los fans del anime enfrentan estas dificultades:
 ---
 
 ## 🔧 Instalación
+- [APK](https://github.com/IchiroCTG/TerrainAnime/releases/download/v.1.0.0/app-debug.apk)
 
 ```bash
 git clone https://github.com/IchiroCTG/TerrainAnime
